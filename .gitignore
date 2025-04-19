@@ -1,4 +1,4 @@
 env/
-*.txt
+keywords.txt
 *.json
 *.csv
